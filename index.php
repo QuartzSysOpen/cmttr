@@ -22,7 +22,7 @@ Post a comment
 </form>
 </div>
 <p>
-<?php include("comments.php");?>
+<?php include("comment_text.html");?>
 </p>
 </body>
 </html>
